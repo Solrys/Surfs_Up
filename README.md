@@ -45,9 +45,12 @@ While it may rain, the overall temperatures year round are ideal for fun in the 
 ![temp](https://github.com/Solrys/Surfs_Up/blob/main/resources/Screen%20Shot%202021-01-31%20at%201.24.33%20PM.png)
 
 ### Summary 
+Looking at percipitaion and temperature it is safe to say that a surf shop in Oahu would be a solid business venture! 
+The data proves consistent and agreeable for the type of weather needed to attract customers who want to cool off in the water or cool off with a nice cold treat. It is rarely too cold or too rainy. 25 percent of the year there is no rain at all and while there may be some rainy or cold days more than 75 percent of the year remains ideal. 
 
-Further Analysis may be helpful. Since we are looking into a surf shop specifically average water temperatures for the year may be useful information. In addition charting the swells may help inform what times of the year we can anticipate more traffic for the shop. 
-Hours of operation may also be dictated by surfers schedules. Do more surfers wake up at sunrise or is it a lazier later in the day surf atmosphere. Being able to agregate data and alayze it can help inform wise financial decisions and business ventures. 
+Further Analysis may help improve our business model. Since we are looking into a surf shop specifically average water temperatures for the year may be useful information. In addition charting the swells may help inform what times of the year we can anticipate more traffic for the shop. 
+Hours of operation may also be dictated by surfers schedules. What is the percentage of surfers who wake up at sunrise? Or does Oahu have a lazier later in the day surf atmosphere. Do surfers like to snack before or after a surf session? 
+Being able to agregate data and alayze it can help inform wise financial decisions and business ventures. 
 
 
 
