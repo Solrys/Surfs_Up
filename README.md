@@ -36,7 +36,7 @@ While it may rain, the overall temperatures year round are ideal for fun in the 
 ![June.temp](https://github.com/Solrys/Surfs_Up/blob/main/resources/jan.temp.png)
 
 #### December Temperatures
-![December.temp]
+![December.temp](https://github.com/Solrys/Surfs_Up/blob/main/resources/Screen%20Shot%202021-01-31%20at%2012.58.17%20PM.png)
 
 ### Summary 
 
