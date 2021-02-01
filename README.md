@@ -33,7 +33,7 @@ Based on the climate Oahu seems like a perfect place for a surf and ice cream sh
 While it may rain, the overall temperatures year round are ideal for fun in the sun and a cool refreshing snack. 
 
 #### June Temperatures
-![June.temp](https://github.com/Solrys/Surfs_Up/blob/main/resources/jan.temp.png)
+![June.temp](https://github.com/Solrys/Surfs_Up/blob/main/resources/Screen%20Shot%202021-01-31%20at%2012.58.05%20PM.png)
 
 #### December Temperatures
 ![December.temp](https://github.com/Solrys/Surfs_Up/blob/main/resources/Screen%20Shot%202021-01-31%20at%2012.58.17%20PM.png)
