@@ -1,7 +1,7 @@
 # Surfs_Up
 Creating data for a potential Surf and Ice cream shop in Hawaii 
 
-### TOOLS
+### Tools
 * SQLite
 * SQLAlchemy
 * Flask 
