@@ -29,4 +29,4 @@ In my analysis I looked for the most active station. This active station will pr
 Based on the climate Oahu seems like the ideal place for a surf and ice cream shop. 
 
 #### January Temperatures
-[Jan.temp]!(
+[Jan.temp]!(https://github.com/Solrys/Surfs_Up/blob/main/resources/jan.temp.png)
