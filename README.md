@@ -38,6 +38,12 @@ While it may rain, the overall temperatures year round are ideal for fun in the 
 #### December Temperatures
 ![December.temp](https://github.com/Solrys/Surfs_Up/blob/main/resources/Screen%20Shot%202021-01-31%20at%2012.58.17%20PM.png)
 
+#### Percipitation 
+![percp](https://github.com/Solrys/Surfs_Up/blob/main/resources/percip.desc.png)
+
+### Temperatures for the overall year 
+![temp](
+
 ### Summary 
 
 Further Analysis may be helpful. Since we are looking into a surf shop specifically average water temperatures for the year may be useful information. In addition charting the swells may help inform what times of the year we can anticipate more traffic for the shop. 
