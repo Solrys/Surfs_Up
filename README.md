@@ -1,5 +1,5 @@
 # Surfs_Up
-Creating data for a potential Surf and Ice cream shop in Hawaii 
+Analizing Data before opening a retail Surf and Ice cream shop as an investment opportunity in Hawaii.
 
 ### Tools
 * SQLite
